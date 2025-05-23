@@ -1,5 +1,5 @@
 <!-- 🎯 Banner Section -->
-<img src="BannerCoding.gif" alt="Aditya Pawar Banner" width="100%" />
+<!-- <img src="BannerCoding.gif" alt="Aditya Pawar Banner" width="100%" /> -->
 
 <h1 align="center">Hi 👋, I'm Aditya Pawar</h1>
 <h3 align="center">🚀 Passionate Coder and Software Developer from India</h3>
