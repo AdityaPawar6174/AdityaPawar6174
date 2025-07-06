@@ -21,7 +21,7 @@
 
 <!-- 🧠 About Section -->
 - 🌱 I’m currently learning **Spring Framework**  
-- 👨‍💻 All of my projects are available at [aditya-pawar]([https://aditya-pawar](https://adityapawar6174.github.io/aditya-pawar/))
+- 👨‍💻 All of my projects are available at [aditya-pawar](https://adityapawar6174.github.io/aditya-pawar/)
 - 💬 Ask me about **Web, Java Fullstack, Data Science**  
 - 📫 Reach me at **adityabpawar393@gmail.com**
 
